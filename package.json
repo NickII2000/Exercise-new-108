@@ -11,6 +11,9 @@
   },
   "author": "",
   "license": "ISC",
+  "browserslist": [
+    "> 1%"
+  ],
   "bugs": {
     "url": "https://github.com/NickII2000/Exercise-new-89/issues"
   },
