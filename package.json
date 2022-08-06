@@ -22,11 +22,15 @@
     "@babel/cli": "^7.18.10",
     "@babel/core": "^7.18.10",
     "@babel/preset-env": "^7.18.10",
+    "babel-loader": "^8.2.5",
+    "core-js": "^3.24.1",
     "json-server": "^0.17.0"
   },
   "keywords": [],
   "description": "",
   "dependencies": {
-    "@babel/polyfill": "^7.12.1"
+    "@babel/polyfill": "^7.12.1",
+    "es6-promise": "^4.2.8",
+    "polyfill-nodelist-foreach": "^1.1.2"
   }
 }
